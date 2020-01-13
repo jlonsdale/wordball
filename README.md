@@ -8,6 +8,7 @@ WORDBALL is a physics based word-game where you throw letter balls into a score-
 - https://github.com/jlonsdale
 
 ## Links
+- Deployed here: https://wordballxtreme.herokuapp.com/
 - Our trello board: https://trello.com/b/BJX4Ee71/wordball
 
 ## Setup
